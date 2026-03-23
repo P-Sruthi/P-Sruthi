@@ -14,49 +14,7 @@
 
 
 
-## 🚀 Tech Stack
 
-* 💻 Languages: C, Python, JavaScript
-* 🌐 Frontend: HTML, CSS, Tailwind CSS, React.js
-* 🔧 Backend: Node.js, Express.js
-* 🗄️ Database: MongoDB, SQL
-* 🛠️ Tools: Git, GitHub, VS Code
-
-
-
-## 📌 Projects
-
-### 📚 Student Management System
-
-* Built using MERN Stack
-* Features: Add, View, Edit, Delete students
-* Clean UI with Tailwind CSS
-
-### 📊 Netflix Data Analysis
-
-* Performed data cleaning & visualization
-* Analyzed trends in content type, duration, and country
-
-
-
-## 📈 Currently Working On
-
-* 🔹 Improving problem-solving skills (DSA)
-* 🔹 Building advanced full-stack applications
-* 🔹 Enhancing UI/UX design skills
-
-
-## 🏆 Achievements
-
-* Participated in Hackathons
-* Completed multiple academic & personal projects
-
-
-
-## 📫 Connect With Me
-
-* 💼 LinkedIn: Sruthi Palle
-* 📧 Email: sruthipalle4@gmail.com
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sruthi Palle) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sruthipalle4@gmail.com) 
